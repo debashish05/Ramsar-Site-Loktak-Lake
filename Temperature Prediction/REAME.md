@@ -1,1 +1,0 @@
-These are the codes used for temperature prediction. After the feedback from our guide, we used land SAT for capturing temperature data. The data points are collected via the script provided here https://github.com/sofiaermida/Landsat_SMW_LST
